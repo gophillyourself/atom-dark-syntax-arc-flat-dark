@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
+  <channel>
+    <atom:link href="http://feeds.soundcloud.com/users/soundcloud:users:142410747/sounds.rss" rel="self" type="application/rss+xml"/>
+    <atom:link href="http://feeds.soundcloud.com/users/soundcloud:users:142410747/sounds.rss?before=339874245" rel="next" type="application/rss+xml"/>
+    <title>The Woody Show</title>
+    <link>http://TheWoodyShow.com</link>
+    <pubDate>Mon, 28 Aug 2017 18:10:06 +0000</pubDate>
+    <lastBuildDate>Mon, 28 Aug 2017 18:10:06 +0000</lastBuildDate>
+    <ttl>60</ttl>
+    <language>en</language>
+    <copyright>All rights reserved</copyright>
+    <webMaster>feeds@soundcloud.com (SoundCloud Feeds)</webMaster>
+    <description>The Woody Show Morning Show with Woody, Ravey, Greg Gory and Menace</description>
+    <itunes:subtitle>The Woody Show Morning Show with Woody, Ravey, Gr…</itunes:subtitle>
+    <itunes:owner>
+      <itunes:name>The Woody Show</itunes:name>
+      <itunes:email>philajan@gmail.com</itunes:email>
+    </itunes:owner>
+    <itunes:author>The Woody Show</itunes:author>
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:image href="http://i1.sndcdn.com/avatars-000283583538-v9ph9e-original.jpg"/>
+    <image>
+      <url>http://i1.sndcdn.com/avatars-000283583538-v9ph9e-original.jpg</url>
+      <title>The Woody Show</title>
+      <link>http://TheWoodyShow.com</link>
+    </image>
+    <itunes:category text="Comedy"/>
+    <item>
+      <guid isPermaLink="false">tag:soundcloud,2010:tracks/339874245</guid>
+      <title>The Woody Show August 28, 2017 Podcast</title>
+      <pubDate>Mon, 28 Aug 2017 18:10:06 +0000</pubDate>
+      <link>https://soundcloud.com/thewoodyshow/the-woody-show-august-28-2017-podcast</link>
+      <itunes:duration>02:49:02</itunes:duration>
+      <itunes:author>The Woody Show</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:summary>The Woody Show August 28, 2017 Podcast</itunes:summary>
+      <itunes:subtitle>The Woody Show August 28, 2017 Podcast</itunes:subtitle>
+      <description>The Woody Show August 28, 2017 Podcast</description>
+      <enclosure type="audio/mpeg" url="http://feeds.soundcloud.com/stream/339874245-thewoodyshow-the-woody-show-august-28-2017-podcast.mp3" length="162267220"/>
+      <itunes:image href="http://i1.sndcdn.com/artworks-000240217041-4l0yzr-original.jpg"/>
+    </item>
+  </channel>
+</rss>
